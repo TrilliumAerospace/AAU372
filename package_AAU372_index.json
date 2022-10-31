@@ -4,7 +4,7 @@
       "name": "AAU-372",
       "maintainer": "Trillium Aerospace Inc.",
       "websiteUrl": "http://www.TrilliumAerospace.com/",
-      "Url": "https://trilliumaerospaceinc-my.sharepoint.com/:f:/g/personal/jody_trilliumaerospace_com/ErxEKWif4JZOot1VauRAfgkBdfPDPswQc4exH5yzI_sSjw?e=iztWlq",
+      "Url": "https://github.com/TrilliumAerospace/AAU372",
       "email": "sales@trilliumaerospace.com",
       "platforms": [
         {
@@ -12,7 +12,7 @@
           "architecture": "samd",
           "version": "1.01",
           "category": "Contributed",
-          "url": "https://trilliumaerospaceinc-my.sharepoint.com/:u:/g/personal/jody_trilliumaerospace_com/ESZtOQJ_Sx9LqRcmIydZnN0BpChEoLCfu8jhgdGZ9w69YQ?e=diwQDe",
+          "url": "https://github.com/TrilliumAerospace/AAU372/blob/main/package_AAU372_index.json",
           "archiveFileName": "AAU372-1.0.0.zip",
           "checksum": "SHA-256:2e8e4b38df60154da1288c7073915d5e2fe0de970d49d08cc95d73b47f8bbe91",
           "size": "5861376",
