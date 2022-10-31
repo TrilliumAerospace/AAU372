@@ -12,7 +12,7 @@
           "architecture": "samd",
           "version": "1.01",
           "category": "Contributed",
-          "url": "https://github.com/TrilliumAerospace/AAU372/blob/main/package_AAU372_index.json",
+          "url": "https://raw.githubusercontent.com/TrilliumAerospace/AAU372/main/package_AAU372_index.json",
           "archiveFileName": "AAU372-1.01.zip",
           "checksum": "SHA-256:2e8e4b38df60154da1288c7073915d5e2fe0de970d49d08cc95d73b47f8bbe91",
           "size": "5861376",
