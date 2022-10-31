@@ -10,12 +10,12 @@
         {
           "name": "Trillium Aerospace Inc AAU-372 SAMD21G18A (32-bits ARM Cortex-M0+) Board",
           "architecture": "samd",
-          "version": "1.01",
+          "version": "1.0.1",
           "category": "Contributed",
-          "url": "https://raw.githubusercontent.com/TrilliumAerospace/AAU372/c2240a7344be78b13f1da10e0bbb1b2fb0dc2632/package_AAU372_index.json",
-          "archiveFileName": "AAU372-1.01.zip",
-          "checksum": "SHA-256:2e8e4b38df60154da1288c7073915d5e2fe0de970d49d08cc95d73b47f8bbe91",
-          "size": "5861376",
+          "url": "https://raw.githubusercontent.com/TrilliumAerospace/AAU372/main/package_AAU372_index.json",
+          "archiveFileName": "AAU372-1.0.1.zip",
+          "checksum": "SHA-256:a0c6d5addef5224561e56b1d8f56e85949288ef3f740c7147874aa5998b9c38c",
+          "size": "5859904",
           "boards": [
             {
               "name": "AAU372"
