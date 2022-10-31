@@ -21,9 +21,7 @@
               "name": "AAU372"
             },
           ],
-          "help": {
-            "online": "http://www.arduino.cc/en/Reference/HomePage"
-          },
+
           "toolsDependencies": [
             {
               "packager": "arduino",
